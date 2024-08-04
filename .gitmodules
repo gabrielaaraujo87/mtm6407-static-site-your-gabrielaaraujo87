@@ -1,0 +1,3 @@
+[submodule "themes/am-writing"]
+	path = themes/am-writing
+	url = https://github.com/Wivik/am-writing-hugo-theme
